@@ -1,6 +1,8 @@
-# cassava-leaf-disease-classification kaggle.com/competitions/cassava-leaf-disease-classification
+# cassava-leaf-disease-classification 
 
-## Problem statement: Task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly identify diseased plants, potentially saving their crops before they inflict irreparable damage.
+kaggle.com/competitions/cassava-leaf-disease-classification
+
+Problem statement: Task is to classify each cassava image into four disease categories or a fifth category indicating a healthy leaf. With your help, farmers may be able to quickly identify diseased plants, potentially saving their crops before they inflict irreparable damage.
 
 ### Identify the type of disease present on a Cassava Leaf image
 <picture>
@@ -18,6 +20,8 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 
 
 ## Understanding the data and metrics: 
+
+### Dataset desc
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="imgs/dataset-desc.png">
  <source media="(prefers-color-scheme: light)" srcset="imgs/dataset-desc.png">
