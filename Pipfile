@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+tensorflow = "*"
+keras = "*"
+numpy = "*"
+pandas = "*"
+matplotlib = "*"
+plotly = "*"
+opencv-python = "*"
+ipykernel = "*"
+seaborn = "*"
+scikit-learn = "*"
+tqdm = "*"
+ipywidgets = "*"
+jupyter = "*"
+notebook = ">=5.3"
+pydot = "*"
+graphviz = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.9"

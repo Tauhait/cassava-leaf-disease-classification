@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CassavaClassifier</string>
+    <string name="title">Cassava Leaf Classifier</string>
+    <string name="leafImage">Cassava Leaf Image</string>
+    <string name="uploadBtn">Upload</string>
+    <string name="captureBtn">Capture</string>
+    <string name="predictBtn">Predict</string>
+    <string name="result">Result:</string>
+</resources>
