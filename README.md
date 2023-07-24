@@ -54,7 +54,7 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="outputs/cmd_healthy.gif" width="400" height="800">
  <source media="(prefers-color-scheme: light)" srcset="outputs/cmd_healthy.gif" width="400" height="800">
- <img alt="healthy" src="outputs/healthy.gif">
+ <img alt="healthy" src="outputs/healthy.gif" width="400" height="800">
 </picture>
 
 
@@ -62,6 +62,7 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 > https://machinelearningmastery.com/keras-functional-api-deep-learning/
 
 ### Important Commands
-> 
+
 > python -m ipykernel install --user --name=my-virtualenv-name
+
 > pip shell
