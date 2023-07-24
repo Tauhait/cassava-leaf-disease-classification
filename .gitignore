@@ -1,7 +1,6 @@
 /data
 /imgs
 /code
-/weights
 *.h5
 /android-app/app/build
 
