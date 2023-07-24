@@ -52,8 +52,8 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 ### Android App 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="outputs/cmd_healthy.gif" width="400" height="600">
- <source media="(prefers-color-scheme: light)" srcset="outputs/cmd_healthy.gif" width="400" height="600">
+ <source media="(prefers-color-scheme: dark)" srcset="outputs/cmd_healthy.gif" width="400" height="800">
+ <source media="(prefers-color-scheme: light)" srcset="outputs/cmd_healthy.gif" width="400" height="800">
  <img alt="healthy" src="outputs/healthy.gif">
 </picture>
 
