@@ -52,14 +52,8 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 ### Android App 
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="outputs/App_CLF-CMD.png" width="200" height="300">
- <source media="(prefers-color-scheme: light)" srcset="outputs/App_CLF-CMD.png" width="200" height="300">
- <img alt="App_CLF-CMD" src="outputs/App_CLF-CMD.png" width="200" height="300">
-</picture>
-
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="outputs/cmd_healthy.gif" width="200" height="300">
- <source media="(prefers-color-scheme: light)" srcset="outputs/cmd_healthy.gif" width="200" height="300">
+ <source media="(prefers-color-scheme: dark)" srcset="outputs/cmd_healthy.gif" width="400" height="600">
+ <source media="(prefers-color-scheme: light)" srcset="outputs/cmd_healthy.gif" width="400" height="600">
  <img alt="healthy" src="outputs/healthy.gif">
 </picture>
 
