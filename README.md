@@ -65,4 +65,4 @@ In this competition, we are introduced to a dataset of 21,367 labeled images col
 
 > python -m ipykernel install --user --name=my-virtualenv-name
 
-> pip shell
+> pipenv shell
